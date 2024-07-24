@@ -52,7 +52,7 @@ python main.py
 Example file format for newly added IPs / IPs to be deleted
 
 #### CSV
-![CSV FILE](csv.png)
+![CSV FILE](https://github.com/user-attachments/assets/5e7cc2c8-e34e-4084-9e18-053ff5cda1db)
 
 #### JSON
-![JSON FILE](json.png)
+![JSON FILE](https://github.com/user-attachments/assets/7ee6e651-6369-4404-92bf-6d376bcd5061)
